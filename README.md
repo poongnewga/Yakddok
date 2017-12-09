@@ -7,3 +7,4 @@ Service for making promise :)
 - 매칭 설정
 - 사용자 친화적인 UX
 - Web & Mobile 플랫폼
+- React Native(예정)
